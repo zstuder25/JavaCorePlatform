@@ -44,7 +44,7 @@ public class Main {
     private static void copyToZip(FileSystem zipFs) throws IOException {
         //Paths can only get path from default file system
         Path sourceFile = Paths.get("file1.txt");
-        //Paths is shorthand for this method of getting the Path
+        //Paths.get is shorthand for this method of getting the Path
         //Path sourceFile = FileSystems.getDefault().getPath("file1.txt");
         Path destFile = zipFs.getPath("/file1Copied.txt");
 

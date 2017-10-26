@@ -1,4 +1,4 @@
-package com.zs.createandpopulatezip;
+package com.zs.inputoutputstreamsandfiles.createandpopulatezip;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

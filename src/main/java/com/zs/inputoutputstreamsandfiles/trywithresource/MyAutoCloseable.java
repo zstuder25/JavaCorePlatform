@@ -1,4 +1,4 @@
-package com.zs.trywith;
+package com.zs.inputoutputstreamsandfiles.trywithresource;
 
 import java.io.IOException;
 
